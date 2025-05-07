@@ -1,13 +1,13 @@
-# 👋 Hi, I'm Ashley Cáceres Pagán
+# Hi, I'm Ashley Cáceres Pagán
 
-🎓 **B.S. Computer Science** — University of Maryland Global Campus  
-☁️ **Cloud Computing & Networking Certificate** — UMGC  
-🚀 **AWS Cloud Institute** — Developer & Operations Tracks (In Progress)  
-🎖️ U.S. Army Veteran | Java Developer | Cloud Enthusiast  
+**B.S. Computer Science** — University of Maryland Global Campus  
+**Cloud Computing & Networking Certificate** — UMGC  
+**AWS Cloud Institute** — Developer & Operations Tracks (In Progress)  
+U.S. Army Veteran | Java Developer | Cloud Enthusiast  
 
 ---
 
-### 🔧 Tech Stack
+### Tech Stack
 - **Languages:** Java, Python, C++, Bash
 - **Frameworks/Tools:** JavaFX, Swing, Gradle, Git, JUnit, Mockito
 - **Cloud & Systems:** AWS (Cloud Foundations, CLI, EC2), Linux Terminal, Networking
@@ -15,7 +15,7 @@
 
 ---
 
-### 💼 Featured Projects
+### Featured Projects
 
 - **[Document Tagging System](https://github.com/ashcacerespagan/document-tagging-system)**  
   Capstone project – JavaFX GUI with TF-IDF keyword extraction, batch testing, dark mode, and export tools.
@@ -33,6 +33,6 @@
 
 ---
 
-### 📫 Contact
+### Contact
 - **LinkedIn:** [linkedin.com/in/ashcacerespagan](https://linkedin.com/in/ashcacerespagan)
 - **Email:** c.ashley9890@gmail.com
