@@ -1,4 +1,4 @@
-# Hi, I'm Ashley Cáceres Pagán
+# Hi, I'm Ash Cáceres Pagán
 
 **B.S. Computer Science** — University of Maryland Global Campus  
 **Cloud Computing & Networking Certificate** — UMGC  
