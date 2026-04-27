@@ -1,77 +1,63 @@
 # Hi, I'm Ash Cáceres Pagán 👋
 
- **B.S. Computer Science Student** — University of Maryland Global Campus (Expected Spring 2026)  
- **AWS Cloud Institute – Cloud Application Developer (Completed)**  
- **Certificate in Cloud Computing & Networking — UMGC (Conferred)**  
- **U.S. Army Veteran**  
- **IT Support | Cloud Computing | Software Development**
+**Computer Science Student | Semiconductor Test Operator | U.S. Army Veteran**
 
----
+I’m finishing my B.S. in Computer Science at UMGC while working full-time as a Test Operator in a semiconductor foundry. My background combines hands-on testing, troubleshooting, military systems experience, and academic software development.
+
+I’m interested in systems engineering, test engineering, cloud support, IT support, and software-adjacent roles where reliability, documentation, and problem-solving matter.
 
 ## About Me
 
-I’m a Computer Science student at UMGC with a strong foundation in IT support, cloud computing, and software development. I’ve completed the **AWS Cloud Institute Cloud Application Developer program** and earned a **UMGC Certificate in Cloud Computing & Networking**, gaining hands-on experience building and supporting cloud-based applications.
+I currently work at InnovaFlex Foundry as a Test Operator, where I test X-ray imaging panels, identify defects, follow controlled procedures, and escalate issues to engineering when needed.
 
-I currently work at **InnovaFlex Foundry** as a Test Operator, where I troubleshoot technical systems, collaborate with engineers on quality and workflow issues, and apply structured documentation and version-control discipline in a production environment. Previously, I served in the **U.S. Army** as a PATRIOT system operator and maintainer, supporting mission-critical systems, supervising teams, and managing secure logistics operations.
+Before this, I served in the U.S. Army as a PATRIOT system operator and maintainer, supporting mission-critical systems, maintaining equipment readiness, and leading teams in structured operational environments.
 
-I enjoy building practical tools, learning cloud-native design, and working across the boundary between **systems, software, and infrastructure**.
+Most of my software and cloud experience comes from school, certificates, and personal projects. I’ve worked with Java, Python, SQL, JavaFX, Git/GitHub, AWS fundamentals, Linux, and system-level concepts.
 
----
+## Technical Focus
 
-## Tech Stack
-
-**Languages**
+### Programming & Development
 - Java
 - Python
-- Bash / zsh
 - SQL
-- C (basic)
-
-**Frameworks & Tools**
+- C basics
 - JavaFX
-- Swing
-- Git / GitHub
-- Gradle
-- JUnit
-- Mockito
+- Git/GitHub
 
-**Cloud & Systems**
-- AWS (EC2, S3, IAM, CLI)
-- Serverless concepts
-- Infrastructure as Code (IaC)
-- Linux / macOS / Windows
-- Virtualization
+### Systems, Cloud & Tools
+- AWS fundamentals: EC2, S3, IAM, VPC, CloudWatch
+- Linux, macOS, Windows
+- Command line basics: zsh/bash
+- Maven, Gradle
+- IntelliJ IDEA
 
-**Focus Areas**
-- IT Support & Troubleshooting
-- Cloud Computing
-- Backend Development
-- TF-IDF & AI-assisted systems
-- Testing & automation
-
----
+### Testing & Operations
+- Troubleshooting
+- Quality assurance
+- Semiconductor process and fabrication
+- Test validation
+- Technical documentation
+- Process adherence
 
 ## Featured Projects
 
-### Document Tagging System (Capstone)
-AI-powered JavaFX application using **TF-IDF** for keyword extraction.  
-Includes batch processing, GUI interface, dark/light modes, and export functionality.
+### Document Tagging System
+Java-based document processing application that extracts and ranks keywords using TF-IDF. Includes a JavaFX GUI, batch processing, export functionality, and defensive handling for malformed or empty inputs.
 
-### TraffIQ AI
-Smart traffic light simulator built with Java Swing.  
-Implements adaptive signal timing, multi-threaded logic, and real-time UI updates.
+### Artificial Intelligence GUI
+JavaFX desktop application that simulates an AI assistant interface using event-driven design, modular logic, and Lucene-based offline search.
+
+### Binary Tree Visualizer
+Interactive JavaFX binary search tree visualizer with insert/delete, traversals, search highlighting, zoom/pan, and PNG export.
 
 ### Visual Scene Compiler
-Mini-compiler that parses user-defined shape syntax and renders graphical scenes using Java Swing.
+JavaFX compiler-style application that parses a scene layout language and renders the visual result.
 
-### Anime Trivia Quiz
-Java Swing-based quiz application with scoring logic, UI handling, and input validation.
+## Current Direction
 
-➡️ More projects available across my repositories.
-
----
+I’m building stronger foundations in systems, testing, cloud infrastructure, and Java-based development while preparing for entry-level technical roles.
 
 ## Contact
 
-- LinkedIn: https://linkedin.com/in/ashcacerespagan  
+- LinkedIn: https://linkedin.com/in/ashcacerespagan
 - Email: c.ashley9890@gmail.com
