@@ -1,63 +1,66 @@
-# Hi, I'm Ash Cáceres Pagán 👋
+# Hi, I'm Ash Cáceres Pagán
 
-**Computer Science Student | Semiconductor Test Operator | U.S. Army Veteran**
+### Computer Science Graduate | Aspiring Data Analyst | U.S. Army Veteran
 
-I’m finishing my B.S. in Computer Science at UMGC while working full-time as a Test Operator in a semiconductor foundry. My background combines hands-on testing, troubleshooting, military systems experience, and academic software development.
+I hold a **B.S. in Computer Science** from UMGC and bring a unique blend of academic software development, military systems logistics, and rigorous hands-on technical operations. Currently, I leverage my analytical and troubleshooting skills as a Technical Operator in a semiconductor foundry, while actively building data-driven solutions.
 
-I’m interested in systems engineering, test engineering, cloud support, IT support, and software-adjacent roles where reliability, documentation, and problem-solving matter.
+I am aggressively pivoting into **Junior Data Analyst**, Data Operations, and Technical Support roles where data integrity, structured problem-solving, and robust documentation are critical.
 
-## About Me
+---
 
-I currently work at InnovaFlex Foundry as a Test Operator, where I test X-ray imaging panels, identify defects, follow controlled procedures, and escalate issues to engineering when needed.
+## Technical Toolkit
 
-Before this, I served in the U.S. Army as a PATRIOT system operator and maintainer, supporting mission-critical systems, maintaining equipment readiness, and leading teams in structured operational environments.
+### **Data Analysis & Programming**
+* **Languages:** Python, SQL (PostgreSQL/MySQL), Java, C (Basics)
+* **Frameworks & Libraries:** JavaFX, Pandas, NumPy, Matplotlib
+* **Version Control & Tools:** Git, GitHub, IntelliJ IDEA, Command Line (Bash/Zsh)
 
-Most of my software and cloud experience comes from school, certificates, and personal projects. I’ve worked with Java, Python, SQL, JavaFX, Git/GitHub, AWS fundamentals, Linux, and system-level concepts.
+### **Systems, Cloud & Operations**
+* **Cloud & Infrastructure:** AWS Fundamentals (EC2, S3, IAM, VPC, CloudWatch)
+* **Operating Systems:** Linux, Windows, macOS
+* **IT & Operations:** Technical Documentation, Process Adherence, Quality Assurance, Troubleshooting, System Validation
 
-## Technical Focus
-
-### Programming & Development
-- Java
-- Python
-- SQL
-- C basics
-- JavaFX
-- Git/GitHub
-
-### Systems, Cloud & Tools
-- AWS fundamentals: EC2, S3, IAM, VPC, CloudWatch
-- Linux, macOS, Windows
-- Command line basics: zsh/bash
-- Maven, Gradle
-- IntelliJ IDEA
-
-### Testing & Operations
-- Troubleshooting
-- Quality assurance
-- Semiconductor process and fabrication
-- Test validation
-- Technical documentation
-- Process adherence
+---
 
 ## Featured Projects
 
-### Document Tagging System
-Java-based document processing application that extracts and ranks keywords using TF-IDF. Includes a JavaFX GUI, batch processing, export functionality, and defensive handling for malformed or empty inputs.
+### **[Incoming Python & SQL Data Projects]**
+*Currently engineering 3 targeted data analysis projects focusing on ETL processes, SQL database querying, and Python-driven data visualization. Stay tuned!*
 
-### Artificial Intelligence GUI
-JavaFX desktop application that simulates an AI assistant interface using event-driven design, modular logic, and Lucene-based offline search.
+### **Document Tagging & Analytics System**
+* **Tech Stack:** Java, JavaFX, Lucene, Maven
+* **Core Functionality:** A desktop application that extracts, ranks, and analyzes keywords across large document batches using a custom **TF-IDF** algorithm. Features defensive error-handling for malformed inputs and data export functionality.
 
-### Binary Tree Visualizer
-Interactive JavaFX binary search tree visualizer with insert/delete, traversals, search highlighting, zoom/pan, and PNG export.
+### **Binary Tree Visualizer & Profiler**
+* **Tech Stack:** Java, JavaFX
+* **Core Functionality:** An interactive data structure visualizer supporting dynamic insertion, deletion, and real-time traversal animations (In-order, Pre-order, Post-order) with structural export capabilities.
 
-### Visual Scene Compiler
-JavaFX compiler-style application that parses a scene layout language and renders the visual result.
+### **Visual Scene Compiler**
+* **Tech Stack:** Java, JavaFX
+* **Core Functionality:** A compiler-style application that parses a custom scene layout language, tokenizes instructions, and dynamically renders the visual geometric result.
 
-## Current Direction
+---
 
-I’m building stronger foundations in systems, testing, cloud infrastructure, and Java-based development while preparing for entry-level technical roles.
+## Professional Experience
 
-## Contact
+### **InnovaFlex Foundry** — *Test Operator*
+* Execute precision testing on high-value X-ray imaging panels, utilizing advanced diagnostic tools to identify and catalog defects.
+* Strictly adhere to tightly controlled engineering procedures, ensuring flawless quality assurance and documenting technical escalations for the engineering team.
 
-- LinkedIn: https://linkedin.com/in/ashcacerespagan
-- Email: c.ashley9890@gmail.com
+### **U.S. Army** — *PATRIOT System Operator & Maintainer*
+* Operated and maintained mission-critical, high-altitude air defense radar and missile systems in high-pressure, structured environments.
+* Spearheaded equipment readiness tracking, performed real-time fault isolation/troubleshooting, and led technical teams under strict operational guardrails.
+
+---
+
+## Current Focus & Direction
+* **Deepening Expertise:** Advanced SQL querying, relational database design, and data storytelling with Python.
+* **Open to Opportunities:** Entry-level Data Analyst, Junior Business Intelligence Analyst, Cloud/IT Support Analyst.
+
+---
+
+## Connect with Me
+
+* **LinkedIn:** [linkedin.com/in/ashcacerespagan](https://linkedin.com/in/ashcacerespagan)
+* **Email:** c.ashley9890@gmail.com
+* **GitHub:** [github.com/ashcacerespagan](https://github.com/ashcacerespagan)
