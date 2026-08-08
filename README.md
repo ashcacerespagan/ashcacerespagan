@@ -17,16 +17,16 @@ I am a Computer Science graduate and U.S. Army Veteran with a strong background 
 
 ### 💻 Featured Projects
 
+* **[Log Parser & System Monitor](https://github.com/ashcacerespagan/Log-Parser-System-Monitor)**
+  * Developed an automated log parser to analyze raw system and application logs, utilizing regular expressions to isolate critical error metrics and performance bottlenecks.
+  * Streamlined diagnostic troubleshooting workflows by categorizing system fault logs into structured operational reports.
+
 * **[Document Tagging & Indexing System](https://github.com/ashcacerespagan)**
   * Engineered a desktop application using **Java, JavaFX, and Lucene** to parse, index, and rank text documents using **TF-IDF** algorithms.
   * Designed event-driven UI features and batch-processing pipelines to handle complex file inputs.
 
 * **[Artificial Intelligence Search GUI](https://github.com/ashcacerespagan)**
   * Built an offline search interface managing multi-threaded event logic and sub-second query responses.
-
-* **[Binary Tree Visualizer](https://github.com/ashcacerespagan)**
-  * Developed an interactive JavaFX utility to model data structures and demonstrate tree traversal algorithms visually.
-
 ---
 
 ### 🎖️ Background & Experience
