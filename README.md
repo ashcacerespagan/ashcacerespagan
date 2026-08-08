@@ -1,66 +1,47 @@
-# Hi, I'm Ash Cáceres Pagán
+# Hi there, I'm Ash Cáceres Pagán 👋
 
-### Computer Science Graduate | Aspiring Data Analyst | U.S. Army Veteran
+**Software & Systems Specialist | B.S. Computer Science | U.S. Army Veteran**
 
-I hold a **B.S. in Computer Science** from UMGC and bring a unique blend of academic software development, military systems logistics, and rigorous hands-on technical operations. Currently, I leverage my analytical and troubleshooting skills as a Technical Operator in a semiconductor foundry, while actively building data-driven solutions.
-
-I am aggressively pivoting into **Junior Data Analyst**, Data Operations, and Technical Support roles where data integrity, structured problem-solving, and robust documentation are critical.
+I am a Computer Science graduate and U.S. Army Veteran with a strong background in high-precision hardware operations, cleanroom component testing, and software development. My technical expertise spans **Java, Python, SQL, and AWS Cloud Architecture**, paired with real-world experience troubleshooting mission-critical equipment, fiber optic networks, and diagnostic systems.
 
 ---
 
-## Technical Toolkit
+### 🛠️ Technical Toolkit
 
-### **Data Analysis & Programming**
-* **Languages:** Python, SQL (PostgreSQL/MySQL), Java, C (Basics)
-* **Frameworks & Libraries:** JavaFX, Pandas, NumPy, Matplotlib
-* **Version Control & Tools:** Git, GitHub, IntelliJ IDEA, Command Line (Bash/Zsh)
-
-### **Systems, Cloud & Operations**
-* **Cloud & Infrastructure:** AWS Fundamentals (EC2, S3, IAM, VPC, CloudWatch)
-* **Operating Systems:** Linux, Windows, macOS
-* **IT & Operations:** Technical Documentation, Process Adherence, Quality Assurance, Troubleshooting, System Validation
+* **Languages:** Java, Python, SQL, Bash
+* **Cloud & Infrastructure:** AWS (Certified Cloud Application Developer), Linux, Networking Fundamentals
+* **Tools & Frameworks:** Git, GitHub, JavaFX, Apache Lucene, Relational Databases
+* **Operations & Testing:** Diagnostic Troubleshooting, Fiber Optic/VHF Data Links, Component Quality Control, Process Documentation
 
 ---
 
-## Featured Projects
+### 💻 Featured Projects
 
-### **[Incoming Python & SQL Data Projects]**
-*Currently engineering 3 targeted data analysis projects focusing on ETL processes, SQL database querying, and Python-driven data visualization. Stay tuned!*
+* **[Document Tagging & Indexing System](https://github.com/ashcacerespagan)**
+  * Engineered a desktop application using **Java, JavaFX, and Lucene** to parse, index, and rank text documents using **TF-IDF** algorithms.
+  * Designed event-driven UI features and batch-processing pipelines to handle complex file inputs.
 
-### **Document Tagging & Analytics System**
-* **Tech Stack:** Java, JavaFX, Lucene, Maven
-* **Core Functionality:** A desktop application that extracts, ranks, and analyzes keywords across large document batches using a custom **TF-IDF** algorithm. Features defensive error-handling for malformed inputs and data export functionality.
+* **[Artificial Intelligence Search GUI](https://github.com/ashcacerespagan)**
+  * Built an offline search interface managing multi-threaded event logic and sub-second query responses.
 
-### **Binary Tree Visualizer & Profiler**
-* **Tech Stack:** Java, JavaFX
-* **Core Functionality:** An interactive data structure visualizer supporting dynamic insertion, deletion, and real-time traversal animations (In-order, Pre-order, Post-order) with structural export capabilities.
-
-### **Visual Scene Compiler**
-* **Tech Stack:** Java, JavaFX
-* **Core Functionality:** A compiler-style application that parses a custom scene layout language, tokenizes instructions, and dynamically renders the visual geometric result.
+* **[Binary Tree Visualizer](https://github.com/ashcacerespagan)**
+  * Developed an interactive JavaFX utility to model data structures and demonstrate tree traversal algorithms visually.
 
 ---
 
-## Professional Experience
+### 🎖️ Background & Experience
 
-### **InnovaFlex Foundry** — *Test Operator*
-* Execute precision testing on high-value X-ray imaging panels, utilizing advanced diagnostic tools to identify and catalog defects.
-* Strictly adhere to tightly controlled engineering procedures, ensuring flawless quality assurance and documenting technical escalations for the engineering team.
-
-### **U.S. Army** — *PATRIOT System Operator & Maintainer*
-* Operated and maintained mission-critical, high-altitude air defense radar and missile systems in high-pressure, structured environments.
-* Spearheaded equipment readiness tracking, performed real-time fault isolation/troubleshooting, and led technical teams under strict operational guardrails.
+* **U.S. Army Veteran (14T - PATRIOT Launching Station Enhanced Operator / Maintainer):** Operated and maintained missile launching systems, running fiber optic and VHF data links to the Engagement Control Station (ECS/ECP), and resolving complex electro-mechanical faults using telemetry and BIT indicators.
+* **Test Operator (InnovaFlex Foundry):** Executed high-precision functional testing on advanced X-ray imaging panels in a cleanroom environment, maintaining strict quality control and defect logging metrics.
 
 ---
 
-## Current Focus & Direction
-* **Deepening Expertise:** Advanced SQL querying, relational database design, and data storytelling with Python.
-* **Open to Opportunities:** Entry-level Data Analyst, Junior Business Intelligence Analyst, Cloud/IT Support Analyst.
+### 🎓 Education & Certifications
+
+* **B.S. in Computer Science** — University of Maryland Global Campus
+* **AWS Certified Cloud Application Developer** — AWS Cloud Institute
+* **Cloud Computing & Networking Certificate** — University of Maryland Global Campus
 
 ---
 
-## Connect with Me
-
-* **LinkedIn:** [linkedin.com/in/ashcacerespagan](https://linkedin.com/in/ashcacerespagan)
-* **Email:** c.ashley9890@gmail.com
-* **GitHub:** [github.com/ashcacerespagan](https://github.com/ashcacerespagan)
+📫 **Connect with me:** [LinkedIn](https://linkedin.com/in/ashcacerespagan) | [Email](mailto:tgoeDXX@gmail.com)
